@@ -1,5 +1,4 @@
 library(rvest)
-library(logr)
 library(stringr)
 library(RSelenium)
 library(dplyr)
